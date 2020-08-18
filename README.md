@@ -8,3 +8,4 @@ A simple app used to track score for two players.
 - CSS
 - Vanilla JavaScript
 
+## View [Live](https://codepen.io/laura-rodd/full/NWGEyoZ)
